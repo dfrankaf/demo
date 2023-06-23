@@ -1,4 +1,6 @@
 # Demo Project README
 This is a simple readme file
 
-New stuff
+The wealth pump -> popular immiseration, overproduction of elites
+
+Just some changes on a branch
