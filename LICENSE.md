@@ -1,3 +1,3 @@
-# Oracle GPL 2.0
+# Oracle GPL 3.0
 ## https://dfa ik  
 
